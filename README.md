@@ -193,13 +193,16 @@ data-processing-workflow/
 │
 ├── data/
 │   ├── raw/
+│   │    ├──heart.csv
+│   │    └── insurance.csv
+│   │
 │   └── processed/
+│           ├── heart_processed.csv
+│           └── insurance-processed.csv
 │
 ├── notebooks/
-│   └── Data_Processing_Workflow.ipynb
-│
-├── src/
-│   └── preprocessing.py
+│   ├── Heart.ipynb
+│   └── insurance.ipynb
 │
 ├── requirements.txt
 │
