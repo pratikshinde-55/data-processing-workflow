@@ -193,7 +193,7 @@ data-processing-workflow/
 │
 ├── data/
 │   ├── raw/
-│   │    ├──heart.csv
+│   │    ├── heart.csv
 │   │    └── insurance.csv
 │   │
 │   └── processed/
@@ -263,7 +263,6 @@ Through this project, I learned:
 ---
 
 ## Author
-
 **Pratik Shinde**
 
 
