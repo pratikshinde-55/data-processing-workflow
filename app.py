@@ -9,7 +9,7 @@ scaler = joblib.load("Notebooks/scaler.pkl")
 expected_columns = joblib.load("Notebooks/columns.pkl")
 
 st.title("Heart Disease Prediction")
-st.markdown("Provide the following details to check your heart stroke risk:")
+st.markdown("Provide the following details to check your heart disease risk:")
 
 # Collect user input
 age = st.slider("Age", 18, 100, 40)
