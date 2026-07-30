@@ -166,7 +166,7 @@ Purpose:
 
 ### Programming Language
 
-* Python
+* Python 
 
 ### Libraries
 
@@ -258,7 +258,7 @@ Through this project, I learned:
 * Add machine learning model training
 * Add model evaluation metrics
 * Deploy preprocessing workflow using Flask/FastAPI
-* Implement ML pipeline using Scikit-learn Pipeline
+* Implement ML pipeline using Scikit-learn Pipeline 
 
 ---
 
